@@ -1,11 +1,11 @@
 # Ethos Project 1
 
-Name: Murali Krishna Valluri
-UIN: 671441135
-Email: mvallu2@uic.edu
+Name: Murali Krishna Valluri<br>
+UIN: 671441135<br>
+Email: mvallu2@uic.edu<br>
 
-Files:
-Box.go
-Box.t
-Makefile
-Readme
+Files:<br>
+Box.go<br>
+Box.t<br>
+Makefile<br>
+Readme<br>
